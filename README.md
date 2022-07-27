@@ -17,7 +17,7 @@
 ### 🧮 &nbsp;GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Andersondev429&theme=github_dark&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersondev429&theme=github_dark&show_icons=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersondev429&layout=compact&theme=github_dark&show_icons=true">
 
 <br>
 
