@@ -1,4 +1,4 @@
-### <h1>Olá, eu sou Anderson Pinheiro, bem-vindo ao meu GitHub!!! <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
+### <h1>Olá, eu sou Anderson Pinheiro, bem-vindo!!! <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 
 - 🔥 Analista de Software e Desenvolvedor Front-end
 
