@@ -1,7 +1,8 @@
 ### <h1>Olá, eu sou Anderson Pinheiro, bem-vindo!!! <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 
 - 💻 Analista de Software | 🤖 Focado em Inteligência Artificial
-  🎓 Pós-graduando em IA | Bacharel em Engenharia de Software e Administração  
+  
+- 🎓 Pós-graduando em IA | Bacharel em Engenharia de Software e Administração | Inglês Avançado  
 
 - 👨‍💻 Atualmente sou Analista de Software na WMI (Wellness Management Innovation) (https://wmi.solutions/)
 
@@ -20,11 +21,21 @@ Pipeline em Python que utiliza modelo Gemma (via LM Studio) para classificar res
 
 ### 🛠 &nbsp;Tecnologias
 
-💡 **IA & Dados**                           🌐 **Desenvolvimento**                                               🧰 **Ferramentas**
-- Python                                     - Python, HTML5, CSS3, JavaScript, Bootstrap                         - Git & GitHub
-- Pandas                                                                                                          - VS Code
-- LLMs                                                                                                            - Canva
+💡 **IA & Dados**                     
+- Python                                    
+- Pandas                                                                                                          
+- LLMs                                                                                                            
 - Make e N8N
+
+🌐 **Desenvolvimento**
+- Python, HTML5, CSS3, JavaScript, Bootstrap
+- Metodologias Ágeis (Scrum e Kanban)
+- SQL Server
+
+🧰 **Ferramentas**
+- Git & GitHub
+- VS Code
+- Canva
 
 <br>
 
