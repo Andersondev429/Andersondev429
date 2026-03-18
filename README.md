@@ -1,10 +1,10 @@
 ### <h1>Olá, eu sou Anderson Pinheiro, bem-vindo!!! <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Analista de Software e Desenvolvedor Front-end
+- 🔥 Analista de Software 🚀 | Pós-graduando em Inteligência Artificial (IA) | Bacharel em Engenharia de Software & Bacharel em Administração
 
-- 👨‍💻 Atualmente sou Analista de Software na WMI (Wellness Management Innovation) (https://www.gruposym.com.br/)
+- 👨‍💻 Atualmente sou Analista de Software na WMI (Wellness Management Innovation) (https://wmi.solutions/)
 
-- 📁 Todos os meus projetos, skills e contatos estão disponíveis em minha página pessoal (https://andersonprofile.netlify.app/)
+- 📁 Alguns dos meus projetos, skills e contatos estão disponíveis em minha página pessoal (https://andersonprofile.netlify.app/)
 
 <br><br>
 
