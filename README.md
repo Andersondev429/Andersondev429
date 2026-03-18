@@ -1,16 +1,26 @@
 ### <h1>Olá, eu sou Anderson Pinheiro, bem-vindo!!! <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif" width="30px"></h1>
 
-- 🔥 Analista de Software 🚀 | Pós-graduando em Inteligência Artificial (IA) | Bacharel em Engenharia de Software & Bacharel em Administração
+- 💻 Analista de Software | 🤖 Focado em Inteligência Artificial
+  🎓 Pós-graduando em IA | Bacharel em Engenharia de Software e Administração  
 
 - 👨‍💻 Atualmente sou Analista de Software na WMI (Wellness Management Innovation) (https://wmi.solutions/)
 
 - 📁 Alguns dos meus projetos, skills e contatos estão disponíveis em minha página pessoal (https://andersonprofile.netlify.app/)
 
+Atualmente venho direcionando minha carreira para desenvolvimento de soluções com IA, aplicando LLMs, automação e análise de dados em projetos práticos.
+
 <br><br>
 
-### 🛠 &nbsp;Tecnologias que domino
+### 🚀 Projetos em destaque
 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img alt="HTML5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img alt="HTML5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><img alt="HTML5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img alt="Angular" src="https://img.shields.io/badge/-Angular-critical?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+🔹 Análise de Sentimento com LLM Local  
+Pipeline em Python que utiliza modelo Gemma (via LM Studio) para classificar resenhas e gerar dados estruturados para análise.
+
+<br>
+
+### 🛠 &nbsp;Tecnologias
+
+<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img alt="HTML5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><img alt="HTML5" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><img alt="HTML5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img alt="Angular" src="https://img.shields.io/badge/-Angular-critical?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <br>
 
