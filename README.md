@@ -20,21 +20,11 @@ Pipeline em Python que utiliza modelo Gemma (via LM Studio) para classificar res
 
 ### 🛠 &nbsp;Tecnologias
 
-💡 **IA & Dados**
-- Python
-- Pandas
-- LLMs
+💡 **IA & Dados**                           🌐 **Desenvolvimento**                                               🧰 **Ferramentas**
+- Python                                     - Python, HTML5, CSS3, JavaScript, Bootstrap                         - Git & GitHub
+- Pandas                                                                                                          - VS Code
+- LLMs                                                                                                            - Canva
 - Make e N8N
-
-🌐 **Desenvolvimento**
-- Python, HTML5, CSS3, JavaScript, Bootstrap
-
-🧰 **Ferramentas**
-- Git & GitHub
-- VS Code
-- Canva
-
----
 
 <br>
 
@@ -47,6 +37,6 @@ Pipeline em Python que utiliza modelo Gemma (via LM Studio) para classificar res
 
 ### 📱 &nbsp;Social Links
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-psilva/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.developerjs/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andersondev429)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-psilva/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andersondev429)
 
 
