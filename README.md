@@ -22,25 +22,44 @@ Pipeline em Python que utiliza modelo Gemma (via LM Studio) para classificar res
 
 <br>
 
-### 🛠 &nbsp;Tecnologias
+<h2>🛠 Tecnologias</h2>
 
-💡 **IA & Dados**                     
-- Python                                    
-- Pandas                                                                                                          
-- LLMs                                                                                                            
-- Make e N8N
+<table>
+  <tr>
+    <td valign="top">
 
-🌐 **Desenvolvimento**
-- Python, HTML5, CSS3, JavaScript, Bootstrap
-- Metodologias Ágeis (Scrum e Kanban)
-- SQL Server
+<h3>💡 IA & Dados</h3>
 
-🧰 **Ferramentas**
-- Git & GitHub
-- VS Code
-- Canva
+- Python  
+- Pandas  
+- LLMs  
+- Make e N8N  
 
-<br>
+    </td>
+    <td valign="top">
+
+<h3>🌐 Desenvolvimento</h3>
+
+- Python  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Metodologias Ágeis (Scrum e Kanban)  
+- SQL Server  
+
+    </td>
+    <td valign="top">
+
+<h3>🧰 Ferramentas</h3>
+
+- Git & GitHub  
+- VS Code  
+- Canva  
+
+    </td>
+  </tr>
+</table>
 
 ### 🧮 &nbsp;GitHub Analytics
 
