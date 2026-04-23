@@ -12,13 +12,13 @@ Atualmente venho direcionando minha carreira para desenvolvimento de soluções 
 
 <br><br>
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos em destaque 
+
+🔹 LangChain Masterclass: Cadeias, Agentes e RAG  
+Laboratório completo em Python explorando o ecossistema LangChain, com implementação de pipelines sequenciais, chat com memória, agentes com LangGraph e sistema RAG com FAISS para busca em PDFs. Executado 100% local com LM Studio, garantindo privacidade, custo zero e controle total dos dados.
 
 🔹 Análise de Sentimento com LLM Local  
 Pipeline em Python que utiliza modelo Gemma (via LM Studio) para classificar resenhas e gerar dados estruturados para análise.
-
-🔹 LangChain Masterclass: Cadeias, Agentes e RAG
-Laboratório completo em Python explorando o ecossistema LangChain, com implementação de pipelines sequenciais, chat com memória, agentes com LangGraph e sistema RAG com FAISS para busca em PDFs. Executado 100% local com LM Studio, garantindo privacidade, custo zero e controle total dos dados.
 
 <br>
 
