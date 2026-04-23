@@ -61,10 +61,18 @@ Pipeline em Python que utiliza modelo Gemma (via LM Studio) para classificar res
   </tr>
 </table>
 
-### 🧮 &nbsp;GitHub Analytics
+<h3>🧮 GitHub Analytics</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Andersondev429&theme=github_dark&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersondev429&layout=compact&theme=github_dark&show_icons=true">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Andersondev429&theme=github_dark&show_icons=true">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersondev429&layout=compact&theme=github_dark&show_icons=true">
+    </td>
+  </tr>
+</table>
 
 <br>
 
