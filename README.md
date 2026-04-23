@@ -10,7 +10,7 @@
 
 Atualmente venho direcionando minha carreira para desenvolvimento de soluções com IA, aplicando LLMs, automação e análise de dados em projetos práticos.
 
-<br><br>
+<br>
 
 ### 🚀 Projetos em destaque 
 
